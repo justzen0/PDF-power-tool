@@ -18,7 +18,7 @@ There are two ways to use PDF PowerTool: by running the standalone executable (e
 
 ### Option 1: Using the Executable (Windows)
 
-1.  Go to the [**Releases**](https://github.com/your-username/your-repo-name/releases) page of this repository.
+1.  Go to the [**Releases**](https://github.com/justzen0/PDF-power-tool/releases) page of this repository.
 2.  Download the latest version of `PDF-PowerTool.exe`.
 3.  Double-click the downloaded file to run the application. No installation is needed!
 
